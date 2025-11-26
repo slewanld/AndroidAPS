@@ -50,6 +50,7 @@
     <string name="connecting_for">Conectando durante %1$d s</string>
     <string name="handshaking">Estableciendo comunicación</string>
     <string name="connected">Conectado</string>
+    <string name="authorized">Autorizado</string>
     <string name="disconnecting">Desconectando</string>
     <string name="waiting_for_disconnection">Esperando para desconectarse</string>
     <!-- Custom Watchface -->
