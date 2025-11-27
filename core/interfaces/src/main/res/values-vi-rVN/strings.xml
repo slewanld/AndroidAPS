@@ -47,6 +47,7 @@
     <string name="connecting_for">Đang kết nối trong %1$d giây</string>
     <string name="handshaking">Đang bắt tay</string>
     <string name="connected">Đã kết nối</string>
+    <string name="authorized">Đã ủy quyền</string>
     <string name="disconnecting">Ngắt kết nối</string>
     <string name="waiting_for_disconnection">Đang chờ ngắt kết nối</string>
     <!-- Custom Watchface -->
