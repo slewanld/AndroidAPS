@@ -87,5 +87,5 @@
     <string name="riley_statistics">Thống kê RileyLink</string>
     <string name="medtronic_history_type">Loại:</string>
     <string name="clicked_refresh" comment="26 characters max for translation">Đã nhấn làm mới</string>
-    <string name="scheduled_status_refresh" comment="26 characters max for translation">Làm mới trạng thái theo định kỳ</string>
+    <string name="scheduled_status_refresh" comment="26 characters max for translation">Cập nhật trạng thái theo lịch</string>
 </resources>
