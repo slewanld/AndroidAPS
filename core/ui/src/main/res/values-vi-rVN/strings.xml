@@ -483,8 +483,8 @@
     <string name="partialboluswizard_reset_time">Ngưỡng thời gian dữ liệu đường huyết cũ [min]</string>
     <string name="bolus_constraint_applied_warn">Giới hạn bolus đã áp dụng: %1$.2f U đến %2$.2f U</string>
     <string name="bolus_recorded_only">Bolus chỉ được ghi lại (không tiêm qua pump)</string>
-    <string name="advisoralarm">Báo thức sẽ phát khi đến giờ ăn</string>
-    <string name="no_action_selected">Chưa chọn hành động, sẽ không có gì xảy ra</string>
+    <string name="advisoralarm">Chạy báo thức khi đến giờ ăn</string>
+    <string name="no_action_selected">Không có hành động nào được chọn, sẽ không có gì xảy ra</string>
     <string name="carb_equal_zero_no_action">Carb = 0. Không có hành động nào được thực hiện!</string>
     <string name="wizard_no_insulin_required">Không cần insulin!</string>
     <string name="wizard_no_actual_bg">Chưa có BG gần đây để tính toán!</string>
@@ -521,7 +521,7 @@
     <string name="reservoir_label">Ngăn chứa insulin</string>
     <string name="last_connection_label">Kết nối lần cuối</string>
     <string name="last_bolus_label">Liều bolus gần nhất</string>
-    <string name="base_basal_rate_label">Tỷ lệ basal cơ bản</string>
+    <string name="base_basal_rate_label">Tỷ lệ liều basal</string>
     <string name="tempbasal_label">Liều basal tạm thời</string>
     <string name="extended_bolus_label">Liều Bolus mở rộng</string>
     <string name="serial_number">Số sê-ri</string>
@@ -529,7 +529,7 @@
     <string name="connecting">Đang kết nối</string>
     <string name="clicked_connect_to_pump" comment="26 characters max for translation">Đã nhấn kết nối với pump</string>
     <string name="reservoir_value">%1$.0f / %2$d U</string>
-    <string name="daily_units">Tổng đơn vị trong ngày</string>
+    <string name="daily_units">Đơn vị trong ngày</string>
     <string name="pump_icon">Biểu tượng pump</string>
     <string name="view_profile">Xem cấu hình</string>
     <string name="pump_history">Lịch sử pump</string>
@@ -537,7 +537,7 @@
     <string name="pump_driver_change" comment="26 characters max for translation">Thay trình điều khiển bơm.</string>
     <string name="device_changed" comment="26 characters max for translation">Thiết bị đã thay đổi</string>
     <string name="bolus_ok" comment="26 characters max for translation">Bolus thành công</string>
-    <string name="temp_basal_delivery_error">Lỗi khi tiêm basal tạm thời</string>
+    <string name="temp_basal_delivery_error">Lỗi khi tiêm liều basal tạm thời</string>
     <string name="not_set_short">Chưa đặt</string>
     <string name="pump_busy">Pump đang bận</string>
     <string name="connection_error">Lỗi kết nối bơm</string>
@@ -571,7 +571,7 @@
     <string name="export_failed">Thất bại</string>
     <string name="export_alert">CẢNH BÁO</string>
     <!-- <unattended_export result messages> -->
-    <string name="export_result_message_exported">Xuất cài đặt</string>
+    <string name="export_result_message_exported">Đã xuất cài đặt</string>
     <string name="export_result_message_failed">Xuất cài đặt THẤT BẠI!</string>
     <string name="export_result_message_about_to_expire">Đã xuất cài đặt: mật khẩu sắp hết hạn. Vui lòng xuất thủ công và nhập lại mật khẩu.</string>
     <string name="export_result_message_expired">Xuất cài đặt bị hủy: mật khẩu đã hết hạn. Vui lòng xuất thủ công và nhập lại!</string>
@@ -600,7 +600,7 @@
     <string name="smscommunicator_missingsmspermission">Thiếu quyền SMS</string>
     <!-- About -->
     <string name="cta_dont_kill_my_app_info">Đừng tắt ứng dụng này!</string>
-    <string name="fabric_upload_disabled">Đã vô hiệ hóa tải lên nhật ký sự cố!</string>
+    <string name="fabric_upload_disabled">Đã vô hiệu hóa tải lên nhật ký sự cố!</string>
     <string name="about_link_urls">\n\nDocumentation:\nhttps://wiki.aaps.app\n\nFacebook:\nhttps://www.facebook.com/groups/AndroidAPSUsers</string>
     <plurals name="days">
         <item quantity="other">%1$d ngày</item>
