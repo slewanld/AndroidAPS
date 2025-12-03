@@ -347,6 +347,7 @@
     <string name="uel_clear_pairing_keys">XÓA KHÓA GHÉP NỐI</string>
     <string name="uel_accepts_temp_basal">CHO PHÉP BASAL TẠM THỜI</string>
     <string name="uel_cancel_temp_basal">HỦY TEMP BASAL</string>
+    <string name="uel_cancel_bolus">HỦY LIỀU BOLUS</string>
     <string name="uel_cancel_extended_bolus">HỦY BOLUS MỞ RỘNG</string>
     <string name="uel_cancel_tt">CANCEL TEMP TARGET</string>
     <string name="uel_careportal">CAREPORTAL</string>
