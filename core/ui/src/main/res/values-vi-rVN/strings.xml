@@ -598,7 +598,7 @@
     <!--    Preferences -->
     <string name="nav_plugin_preferences">Tùy chọn plugin</string>
     <!-- SmsCommunicator -->
-    <string name="smscommunicator_missingsmspermission">Thiếu quyền SMS</string>
+    <string name="smscommunicator_missingsmspermission">Thiếu quyền nhắn tin SMS</string>
     <!-- About -->
     <string name="cta_dont_kill_my_app_info">Đừng tắt ứng dụng này!</string>
     <string name="fabric_upload_disabled">Đã vô hiệu hóa tải lên nhật ký sự cố!</string>
